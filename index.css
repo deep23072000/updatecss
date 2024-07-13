@@ -1,0 +1,16 @@
+:root{
+    --bg:black;
+    --col:white;
+    --btncol:black;
+    --btnbgcol:yellow;
+}
+
+*{
+    background-color: var(--bg);
+    color: var(--col);
+}
+
+#btn{
+    color: var(--btncol);
+    background-color: var(--btnbgcol);
+}
